@@ -25,3 +25,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="postman" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
           
+
+
+
+
+
+### My stat
+<div id="stat" align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nikbalancev&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikbalancev&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikbalancev&theme=github_dark"/>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikbalancev&theme=github_dark"/>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikbalancev&theme=github_dark&utcOffset=8"/>
+</div>
