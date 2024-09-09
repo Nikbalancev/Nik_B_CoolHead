@@ -1,3 +1,4 @@
+![Custom Background](https://img.goodfon.ru/original/1366x768/f/e9/siniy-uzory-spirali.jpg)
 <div id="header" align="center">
 	<h1>Hi there, I'm Nikita</h1>
 	<h3>QA Engineer</h3>
@@ -25,7 +26,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="postman" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
           
-
 
 
 
