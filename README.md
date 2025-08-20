@@ -12,9 +12,11 @@
 
 ### About me
 - 🤓 I’m currently learning **QA, JavaScript, Vue, HTML&CSS**
-- 👨‍💻 I'm currently working in Qtim.pro
+- 👨‍💻 I'm currently working in best company
 - 🕊 Reach me by [email](mailto:Korolevsky.2011@gmail.com)
 - 🌍 I speak English (~A2)
+- 🤖 (⌐■_■) I write autotests with **Playwright**
+
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
